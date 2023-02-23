@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/pPX5CSL/PC.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Not-able-to-connect-Android-Device-ADB-and-Fastboot/blob/main/PC.png" width="200"></a>
 <h1 align="center"><b>ADB and Fastboot - Not able to connect Android Device</b></h1>
 <br />
 
